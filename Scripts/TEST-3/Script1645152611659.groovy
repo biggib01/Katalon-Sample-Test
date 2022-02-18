@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Lab 234/input_Password_scor
 
 WebUI.click(findTestObject('Object Repository/Page_Lab 234/button_Submit'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Lab 234/button_A'), 'A')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Lab 234/button_A'), 'C')
 
 WebUI.closeBrowser()
 
